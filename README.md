@@ -10,7 +10,7 @@ W3.CSS is a modern CSS framework with built-in responsiveness:
  * Speeds up and simplifies web development.
  * Supports modern responsive design (mobile first) by default.
  * Provides CSS equality for all browsers. Chrome, Firefox, IE, Safari, and more.
- * Provides CSS equality for all devices. PC, laptop, tablet, and mobile:
+ * Provides CSS equality for all devices. PC, laptop, tablet, and mobile.
  * Type some Markdown on the left
  * See HTML in the right
  * Magic
@@ -36,7 +36,7 @@ W3.CSS - Mobile
 import 'w3-css/4/w3mobile.css';
 
 ```
-And to you know about the different among versions
+And so you know about the difference among versions,
 see the link https://www.w3schools.com/w3css/w3css_versions.asp
 
-You can read more about w3-css on http://www.w3schools.com/w3css/default.asp:
+You can read more about W3.CSS on http://www.w3schools.com/w3css/default.asp:
